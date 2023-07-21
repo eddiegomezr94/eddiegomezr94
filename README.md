@@ -8,6 +8,6 @@
   
  
 -<b> Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VM's]
+  - [Configuring On-premises Active Directory within Azure VM's](https://github.com/eddiegomezr94/AD-LAB)
   - [Network Security Groups (NSG's) and inspecting Network Protocols]
   
